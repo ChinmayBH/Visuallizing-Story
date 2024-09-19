@@ -1,3 +1,5 @@
+# This is git ignore file for folders, venvs and other ignored files
+
 # venvs
 
-/story
+/story_env
