@@ -33,12 +33,10 @@ pip install -r requirements.txt
 
 Clone the repository:
 
-```bash
 git clone https://github.com/your-username/story-visualization-platform.git
 
 
 Run the app:
-```bash
 streamlit run app.py
 
 ## Usage
