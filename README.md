@@ -30,3 +30,18 @@ Install the necessary dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/story-visualization-platform.git
+
+
+Run the app:
+```bash
+streamlit run app.py
+
+## Usage
+1. Enter a keyword or theme in the text input.
+2. Click the "Generate Story" button to receive a fully generated story.
+3. Visual representations of the story scenes will be displayed automatically once the story is generated.
