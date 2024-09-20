@@ -29,13 +29,13 @@ This repository combines **AI-driven storytelling** with **AI-generated visual c
 Install the necessary dependencies by running:
 
 ```bash
-pip install -r requirements.txt
 
 Clone the repository:
-
 git clone https://github.com/your-username/story-visualization-platform.git
 
+pip install -r requirements.txt
 
+cd script/
 Run the app:
 streamlit run app.py
 
